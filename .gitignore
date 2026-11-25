@@ -1,0 +1,13 @@
+
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# macOS files
+.DS_Store
+__MACOSX/
+._*
+
+# Temporary files
+*.bak
+*.tmp
